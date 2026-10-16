@@ -1,0 +1,10 @@
+# Evidence and fidelity
+
+Researched before implementation, 2026-10-16.
+
+1. Konami original instruction manual, [Games Database scanned PDF](https://www.gamesdatabase.org/Media/SYSTEM/Nintendo_NES/Manual/formated/Tiny_Toon_Adventures_-_Cartoon_Workshop_-_1992_-_Konami.pdf). Read the rendered scans directly (PDF contains no extractable text). Printed pp. 8–9: actor 1, scene, text, edit, sound, actor 2 menus; frame stepping. pp. 10–13: new backdrop erases cartoon, larger scrolling scenes, two actors with props counting as actors. pp. 14–19: select animation, place, set directional arrow length as speed, film; fills later frames and erases later actions; rewind to layer actor 2. pp. 20–23: preset phrases, caption position, caption pauses, music and sound effects.
+2. [NESguide gameplay, 6:16](https://www.youtube.com/watch?v=dMbSQAzktaI): actual game footage; title and staged two-actor scenes inspected in Mac Chrome around 1:00. This reference demonstrates the presentation, not all editing controls.
+3. [Matt Hosley longplay](https://www.youtube.com/watch?v=9HPMBFEHpEs): actual game footage and author interaction, inspected in Mac Chrome around 3:00; two actors on a scenic side-on stage. Video quality is limited; manual is the primary source for detailed mechanics.
+4. [Hoskat / Video Game Sage first-hand account](https://www.videogamesage.com/blogs/entry/59-tiny-toons-cartoon-workshop/): corroborates two actor selections, predefined actions, movement, text and sound, and scene replacement. This is secondary evidence, not authority for exact controls.
+
+The resulting project is an independently authored homage, not a reproduction or emulator. No reference images, ROMs, audio, characters or manual files are included. Camera mean-follow is our explicit deterministic approximation: the manual confirms scrolling, but not its exact algorithm. Duration, fps, catalogue, pause behavior and browser persistence are deliberate modern simplifications; no claim that these match the original values.

@@ -2,6 +2,8 @@
 
 An original browser cartoon studio closely inspired by the **authoring workflow** of *Tiny Toon Adventures: Cartoon Workshop* (NES, 1992). Direct Pip the seed courier, Moth the moon magician and a moonseed prop as they prepare the Moonseed Festival. This is a cartoon creator, with no platforming or drawing mechanics.
 
+![Verified Mac cartoon authoring session](docs/workshop-mac.jpg)
+
 ## Run
 
 Node.js 24 recommended.

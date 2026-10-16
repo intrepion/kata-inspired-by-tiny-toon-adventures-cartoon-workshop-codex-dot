@@ -4,6 +4,7 @@ Completed on connected Mac, 2026-10-16. No existing project, save, preview proce
 
 ## Automated acceptance
 
+- Dependency audit passed with zero vulnerabilities after updating the test runner to Vitest 5.0.5.
 - Strict TypeScript (`npm run typecheck`) passed.
 - Four Vitest behavioral tests passed: independent actor layering and forward replacement, camera mean-follow/boundaries, save round-trip and invalid data rejection, cue deletion/caption ordering/replacement/length trimming.
 - Three Playwright Chromium scenarios passed: blank authoring → two actions → second actor → caption → full playback/pause/resume/end → edit/save/reload → actual earlier overwrite preserving other actor → scene cancellation/replacement; stage keyboard placement/motion/clamping/frame stepping/Space/Escape; destructive-reset modal focus containment/restoration.

@@ -20,9 +20,9 @@ Production: `npm run build`, then `npm run preview -- --port 5221 --strictPort`.
 3. Set X/Y motion (stage units per frame). Choose **Film action** at the current frame.
 4. Step or scrub forward and film a different action. Filming replaces that slot's cues at and after the current frame. Rewind and cast the second actor to layer simultaneous performances.
 5. Add a preset caption and optional original synthesized chime at a frame. Captions show for 24 frames; a blank caption clears it from that point.
-6. Play the cartoon, pause/resume, return to edit, and revise. Save take stores the cartoon in this browser; committed edits also autosave. Reload restores it. A new cartoon or backdrop starts a fresh take after confirmation.
+6. Play the cartoon from the beginning (or **Here** from the current frame), pause/resume, return to edit, and revise. Save take stores the cartoon in this browser; committed edits also autosave. Reload restores it. A new cartoon or backdrop starts a fresh take after confirmation.
 
-**Controls:** mouse or Tab/Enter for controls; stage arrow keys move draft placement 2 units (Shift: 10); otherwise Left/Right step frames. Space on stage/background plays or pauses. Escape cancels placement/playback and returns to edit. Cmd/Ctrl+S saves. Native input controls keep their ordinary keyboard behavior. No gamepad support.
+**Controls:** mouse or Tab/Enter for controls; stage arrow keys move draft placement 2 units (Shift: 10); in the motion step they change X/Y velocity by one unit, visualized by an arrow; otherwise Left/Right step frames. Space on stage/background plays or pauses. Escape cancels placement/playback and returns to edit. Cmd/Ctrl+S saves. Native input controls keep their ordinary keyboard behavior. No gamepad support.
 
 The camera follows the mean location of present actors, clamped to a 1,400-unit-wide world around an 800-unit viewport. Motion is bounded to world placement limits. Repeated jump/walk/wave/spin performances are evaluated deterministically at 12 fps.
 

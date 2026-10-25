@@ -51,3 +51,7 @@ CI runs these on Linux with headless Chromium. Browser tests use a separate stri
 ## License and ignore sources
 
 Full [MIT license](LICENSE). `.gitignore` includes the official GitHub [Linux](https://github.com/github/gitignore/blob/main/Global/Linux.gitignore), [Windows](https://github.com/github/gitignore/blob/main/Global/Windows.gitignore) and [macOS](https://github.com/github/gitignore/blob/main/Global/macOS.gitignore) templates, followed by project ignores. Exact fetched templates are retained in `docs/gitignore/`.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-inspired-by-tiny-toon-adventures-cartoon-workshop-codex-dot/)

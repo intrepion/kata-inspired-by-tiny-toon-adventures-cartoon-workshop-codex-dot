@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-tiny-toon-adventures-cartoon-workshop-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-tiny-toon-adventures-cartoon-workshop-codex-dot/",
   "screenshots": [
@@ -12,6 +12,46 @@
         "sourcePath": "docs/workshop-mac.jpg",
         "deployedBuild": null,
         "captureDate": null
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "b9c94a52158934795444301d275ccf8e5c34b8b9224aaef9242295f755569391",
+      "alt": "Pocket Picture Workshop gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "8913460a5d1b532ae4a75db105fff16e6790434935b24b674f47c6c7e079ded0",
+        "captureCommit": "e91922f80c6e9113a3a267a7e8b95d367f8a76a6",
+        "workflowRunId": "41410387177",
+        "inputHashes": {
+          "index.html": "bebdf4354ae4ae1f4a73d8703a12f68bb67fa0496c984ea9b845365ee30e1aa3",
+          "assets/index-AWCFYRFz.css": "f6df6ce0766dfaf998bbd3ac706c69c4225306b166ddb0efa06e3bd3881a0917",
+          "assets/index-DX7p2Hfo.js": "8c98648ff686d303d25a41d1dff867649c27fb49718a2feee76592a0d1a9e444"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "215499d60f7b4ac99757f218240f73b61c4ac8e81e1d61079d2fad830f0f71d2"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "59a870e3dbf8f9931e54345e920bbea313965c2278f278ec9b2571c1adccd852",
+      "alt": "Pocket Picture Workshop gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "50797b96c57db473b1db8ec9b6b37ee98ad414b98e82d55c9c6bcd69e6f85c8b",
+        "captureCommit": "e91922f80c6e9113a3a267a7e8b95d367f8a76a6",
+        "workflowRunId": "41410387177",
+        "inputHashes": {
+          "index.html": "bebdf4354ae4ae1f4a73d8703a12f68bb67fa0496c984ea9b845365ee30e1aa3",
+          "assets/index-AWCFYRFz.css": "f6df6ce0766dfaf998bbd3ac706c69c4225306b166ddb0efa06e3bd3881a0917",
+          "assets/index-DX7p2Hfo.js": "8c98648ff686d303d25a41d1dff867649c27fb49718a2feee76592a0d1a9e444"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "215499d60f7b4ac99757f218240f73b61c4ac8e81e1d61079d2fad830f0f71d2"
       }
     }
   ]

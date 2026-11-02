@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-inspired-by-tiny-toon-adventures-cartoon-workshop-codex-dot",
+  "playUrl": "https://intrepion.github.io/kata-inspired-by-tiny-toon-adventures-cartoon-workshop-codex-dot/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/view-01.jpg",
+      "sha256": "38771beb019d762a64fcd3265147ccd4084d8edfcd2a4aacbc10d09dd3506fd1",
+      "alt": "Gameplay capture 1",
+      "provenance": {
+        "kind": "existing_repository_capture",
+        "sourcePath": "docs/workshop-mac.jpg",
+        "deployedBuild": null,
+        "captureDate": null
+      }
+    }
+  ]
+}
